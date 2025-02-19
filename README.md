@@ -1,4 +1,9 @@
 # Collision-Avoidance
 Designed and simulated a 4-wheeled robot using Webots, to automatically avoid object within the simulation.
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/Collision-Avoidance/blob/main/collision_avoidance_simulation_480p.mp4)
+
+Here's the 30 second simulation:
+
+
+https://github.com/user-attachments/assets/5204afc6-ed30-4360-b852-a0003cd4f46b
+
